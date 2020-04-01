@@ -28,7 +28,7 @@ class SqlRunner:
                              server_side_cursors=True, encoding="utf-8")
 
     def run_query(self, sql_query, result_size):
-        print("Running Query => ", sql_query)
+        # print("Running Query => ", sql_query)
 
         engine = self.get_sql_engine()
         query_results = pd.read_sql_query(sql_query, engine, chunksize=result_size)
