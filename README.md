@@ -22,4 +22,15 @@
 ## Introduction
 
 
+## Troubleshoot
+
+### Error mysqlclient in Mac due to OpenSSL 
+
+- Fix OpenSSL with Homebrew (https://stackoverflow.com/questions/38670295/homebrew-refusing-to-link-openssl)
+- Install mysqlclient with openssl
+  ```
+    LDFLAGS=-L/usr/local/opt/openssl/lib pip install mysqlclient
+  ```
+
 ## Maintainer
+- [Nazmi Asri](https://www.linkedin.com/in/nazmi-asri/)
