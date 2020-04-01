@@ -3,10 +3,15 @@
     Email: edmund.hee05@gmail.com
 """
 import requests
-import logging
+import os
 import pandas as pd
 from datetime import datetime
 from services.sql_runner import SqlRunner
+from dotenv import load_dotenv
+from pathlib import Path
+
+env_path = Path('./.env')
+load_dotenv(dotenv_path=env_path)
 
 
 def map_info_f(payload):
@@ -50,12 +55,13 @@ if __name__ == "__main__":
     URL_INFO = "https://gs.kamfu.dev/?page=stg-info"
     URL_MARKERS = "https://gs.kamfu.dev/?page=stg-{}"
 
-    DB_HOST = "safetogo.caapwlyn1xci.ap-southeast-1.rds.amazonaws.com"
-    DB_USER = ""  # Please remove when push to Git
-    DB_PASSWORD = ""  # Please remove when push to Git
-    DB_DATABASE = "safetogo_dev"
-    DB_TABLE = "borneo_markers_test"
-    DB_URI = 'mysql://{}@{}:3306/{}'.format(DB_USER, DB_HOST, DB_DATABASE)
+    DB_HOST = os.getenv("DB_HOST")
+    DB_USER = os.getenv("DB_USER")  # Please remove when push to Git
+    DB_PASSWORD = os.getenv("DB_PASSWORD")  # Please remove when push to Git
+    DB_DATABASE = os.getenv("DB_DATABASE")
+    RAW_TABLE = os.getenv("BORNEO_RAW_TABLE")
+    TARGET_TABLE = os.getenv("BORNEO_TARGET_TABLE")
+    DB_URI = os.getenv("DB_URI").format(DB_USER, DB_HOST, DB_DATABASE)
 
     info_resp = requests.get(URL_INFO)
     runner = SqlRunner(DB_URI, DB_PASSWORD)
@@ -66,6 +72,7 @@ if __name__ == "__main__":
                 location["region"].lower()
             )
         )
+        print(location["region"])
         if "results" not in markers_resp.json():
             pass
 
@@ -78,44 +85,44 @@ if __name__ == "__main__":
         df = pd.DataFrame(processed_data)
         df["last_updated"] = pd.to_datetime(df["last_updated"]).values.astype('datetime64[ms]')
         df["reportedDate"] = pd.to_datetime(df["reportedDate"]).values.astype('datetime64[ms]')
-        runner.to_sql(df, DB_TABLE, chunksize=100, if_exists="append")
+        runner.to_sql(df, RAW_TABLE, chunksize=100, if_exists="append")
 
-    result = runner.run_query("""
-    SELECT
-        city,
-        last_updated,
-        region,
-        lat,
-        lng,
-        lvl1.level,
-        zone,
-        active_case,
-        case when flow = 2 then active_case ELSE 0 END as previous_active,
-        total_confirmed,
-        case when flow = 2 then total_confirmed ELSE 0 END as previous_confirmed,
-        total_deaths,
-        case when flow = 2 then total_deaths ELSE 0 END as previous_deaths,
-        total_recovered,
-        case when flow = 2 then total_recovered ELSE 0 END as previous_recovered,
-        source,
-        source_name,
-        reportedDate,
-        scrapped,
-        text_show,
-        locationName,
-        email,
-        img_url,
-        createdBy,
-        reference
-            FROM(
-                SELECT
-                    *,
-                    RANK() OVER(PARTITION BY city, region ORDER BY reportedDate DESC) as flow
-                FROM
-                    borneo_markers_test
-            ) as lvl1
-        WHERE flow = 1
-    """, result_size=None)
+    result = runner.run_query(f" \
+    SELECT\
+        city,\
+        last_updated,\
+        region,\
+        lat,\
+        lng,\
+        lvl1.level,\
+        zone,\
+        active_case,\
+        case when flow = 2 then active_case ELSE 0 END as previous_active,\
+        total_confirmed,\
+        case when flow = 2 then total_confirmed ELSE 0 END as previous_confirmed,\
+        total_deaths,\
+        case when flow = 2 then total_deaths ELSE 0 END as previous_deaths,\
+        total_recovered,\
+        case when flow = 2 then total_recovered ELSE 0 END as previous_recovered,\
+        source,\
+        source_name,\
+        reportedDate,\
+        scrapped,\
+        text_show,\
+        locationName,\
+        email,\
+        img_url,\
+        createdBy,\
+        reference\
+            FROM(\
+                SELECT\
+                    *,\
+                    RANK() OVER(PARTITION BY city, region ORDER BY reportedDate DESC) as flow\
+                FROM\
+                    {RAW_TABLE}\
+            ) as lvl1\
+        WHERE flow = 1\
+    ", result_size=None)
     granular = pd.DataFrame(result)
-    runner.to_sql(granular, "borneo_markers", chunksize=100, if_exists="replace")
+    runner.to_sql(granular, TARGET_TABLE, chunksize=100, if_exists="replace")
 
