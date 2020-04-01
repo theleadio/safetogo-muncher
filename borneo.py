@@ -47,7 +47,9 @@ def map_marker_f(location, payload):
         "email": "tanghoong.com@gmail.com",
         "img_url": "https://lh3.googleusercontent.com/a-/AOh14Gg61l26tmwJpJ28UdDtvrqRxqlqAKakKfTNN66q3Dc",
         "createdBy": "T H",
-        "reference": "summary"
+        "reference": "summary",
+        "upvote": 0,
+        "downvote": 0
     }
 
 
@@ -85,6 +87,8 @@ if __name__ == "__main__":
         df = pd.DataFrame(processed_data)
         df["last_updated"] = pd.to_datetime(df["last_updated"]).values.astype('datetime64[ms]')
         df["reportedDate"] = pd.to_datetime(df["reportedDate"]).values.astype('datetime64[ms]')
+        df["lat"] = df["lat"].values.astype('float32')
+        df["lng"] = df["lng"].values.astype('float32')
         runner.to_sql(df, RAW_TABLE, chunksize=100, if_exists="append")
 
     result = runner.run_query(f" \
@@ -113,7 +117,9 @@ if __name__ == "__main__":
         email,\
         img_url,\
         createdBy,\
-        reference\
+        reference,\
+        (SELECT COUNT(DISTINCT user_id) FROM votes WHERE lat= lvl1.lat AND lng = lvl1.lng AND upvote = 1) as upvote,\
+        (SELECT COUNT(DISTINCT user_id) FROM votes WHERE lat= lvl1.lat AND lng = lvl1.lng AND downvote = 1) as downvote\
             FROM(\
                 SELECT\
                     *,\
