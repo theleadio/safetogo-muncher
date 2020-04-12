@@ -61,6 +61,7 @@ if __name__ == "__main__":
     respond_bd = bs(resp.content, "html.parser")
 
     result = respond_bd.find_all("table", {"class": "table-states"})
+    print(result)
     if not len(result) > 0:
         raise Exception("States Table not found!")
 
