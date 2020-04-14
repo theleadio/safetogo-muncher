@@ -1,0 +1,3708 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.10184,
+                "longitude": 101.59995,
+                "description": "Employee at RHB Islamic Bank's Kelana Jaya branch in Petaling Jaya, Selangor, has tested positive for Covid-19.",
+                "locationName": "RHB Islamic Bank, Kelana Jaya",
+                "source": "https://www.theedgemarkets.com/article/rhb-says-one-kelana-jaya-branch-staff-has-tested-positive-covid19",
+                "reportedDate": "2020-04-08",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 2,
+                "site": "https://www.theedgemarkets.com",
+                "show": "Employee at RHB Islamic Bank's Kelana Jaya branch in Petaling Jaya, Selangor, has tested positive for Covid-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.59995,
+                    3.10184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.15208,
+                "longitude": 101.69735,
+                "description": "Selangor Mansion dan Malayan Mansion di ibu negara diletakkan di bawah perintah kawalan pergerakan diperketatkan (PKPD) berikutan wabak Covid-19.",
+                "locationName": "Selangor Mansion dan Malayan Mansion",
+                "source": "https://www.malaysiakini.com/news/519278",
+                "reportedDate": "2020-04-07",
+                "status": "lock down",
+                "entryBy": "Admin",
+                "duration": 3,
+                "site": "https://www.malaysiakini.com",
+                "show": "Selangor Mansion dan Malayan Mansion di ibu negara diletakkan di bawah perintah kawalan pergerakan diperketatkan (PKPD) berikutan wabak Covid-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.69735,
+                    3.15208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 2.27592,
+                "longitude": 102.40606,
+                "description": "Multiple positive cases of COVID-19 were reported",
+                "locationName": "Madrasah Bustanul Ulum Abu Bakar",
+                "source": "https://www.bharian.com.my/berita/nasional/2020/04/674205/covid-19-70-lagi-pelajar-tahfiz-di-jasin-dikuarantin",
+                "reportedDate": "2020-04-07",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 3,
+                "site": "https://www.bharian.com.my",
+                "show": "Multiple positive cases of COVID-19 were reported"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.40606,
+                    2.27592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.05116,
+                "longitude": 101.70047,
+                "description": "An employee tested positive on April 5",
+                "locationName": "Astro Malaysia",
+                "source": "https://www.malaysiakini.com/news/519055",
+                "reportedDate": "2020-04-06",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 4,
+                "site": "https://www.malaysiakini.com",
+                "show": "An employee tested positive on April 5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.70047,
+                    3.05116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.05116,
+                "longitude": 101.70047,
+                "description": "An employee who works on the outside broadcast (OB truck) transportation team tested positive on April 5. The Bukit Jalil broadcast centre will be closed for sanitisation until April 8. ",
+                "locationName": "Astro Malaysia",
+                "source": "https://www.malaysiakini.com/news/519055",
+                "reportedDate": "2020-04-06",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 4,
+                "site": "https://www.malaysiakini.com",
+                "show": "An employee who works on the outside broadcast (OB truck) transportation team tested positive on April 5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.70047,
+                    3.05116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.12997,
+                "longitude": 101.67658,
+                "description": "Residents in Block 2 and 3 were tested positive and brought to Hospital Kuala Lumpur and Pusat Perubatan Universiti Malaya respectively. Sanitation work on the buildings was carried out, Lembah Pantai MP Fahmi Fadzil tweeted.",
+                "locationName": "Flat Sri Pahang",
+                "source": "https://twitter.com/fahmi_fadzil/status/1246669536440373248",
+                "reportedDate": "2020-04-05",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 5,
+                "site": "https://twitter.com",
+                "show": "Residents in Block 2 and 3 were tested positive and brought to Hospital Kuala Lumpur and Pusat Perubatan Universiti Malaya respectively"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.67658,
+                    3.12997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.55143,
+                "longitude": 103.79668,
+                "description": "IKEA Tebrau",
+                "locationName": "IKEA Tebrau",
+                "source": "https://www.hmetro.com.my/mutakhir/2020/04/562690/khidmat-makanan-bawa-pulang-ikea-tebrau-tutup",
+                "reportedDate": "2020-04-04",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 6,
+                "site": "https://www.hmetro.com.my",
+                "show": "IKEA Tebrau"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.79668,
+                    1.55143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.45956,
+                "longitude": 110.47309,
+                "description": "Many cases were found at Desa Ilmu, Tanjung Bundong and Muara Tuang.",
+                "locationName": "Muara Tuang",
+                "source": "https://www.theborneopost.com/2020/04/03/number-of-covid-19-hot-spots-increases-in-kuching-red-zone/",
+                "reportedDate": "2020-04-03",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 7,
+                "site": "https://www.theborneopost.com",
+                "show": "Many cases were found at Desa Ilmu, Tanjung Bundong and Muara Tuang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.47309,
+                    1.45956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.15058,
+                "longitude": 101.69566,
+                "description": "An employee has been tested positive for Covid-19",
+                "locationName": "Menara UAB - CIMB, Jalan Tun Perak",
+                "source": "https://www.sinchew.com.my/content/content_2244967.html",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.sinchew.com.my",
+                "show": "An employee has been tested positive for Covid-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.69566,
+                    3.15058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.08347,
+                "longitude": 101.58005,
+                "description": "Sekatan jalan raya dan penutupan jalan jalan utama",
+                "locationName": "Susur masuk Lebuhraya Persekutuan dari arah Shah Alam ke Persiaran Tujuan",
+                "source": "pic/subang-jaya.pdf",
+                "reportedDate": "2020-04-01",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "pic/subang-jaya.pdf",
+                "show": "Sekatan jalan raya dan penutupan jalan jalan utama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.58005,
+                    3.08347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.08195,
+                "longitude": 101.59288,
+                "description": "Sekatan jalan raya dan penutupan jalan jalan utama",
+                "locationName": "Dari Subang Kelana Link ke Persiaran Kewajipan Subang Jaya ",
+                "source": "pic/subang-jaya.pdf",
+                "reportedDate": "2020-04-01",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "pic/subang-jaya.pdf",
+                "show": "Sekatan jalan raya dan penutupan jalan jalan utama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.59288,
+                    3.08195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.08192,
+                "longitude": 101.57967,
+                "description": "Sekatan jalan raya dan penutupan jalan jalan utama",
+                "locationName": "Susur masuk Lebuhraya Persekutuan dari arah Kuala Lumpur ke Persiaran Tujuan",
+                "source": "pic/subang-jaya.pdf",
+                "reportedDate": "2020-04-01",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "pic/subang-jaya.pdf",
+                "show": "Sekatan jalan raya dan penutupan jalan jalan utama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.57967,
+                    3.08192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.07964,
+                "longitude": 101.57902,
+                "description": "Sekatan jalan raya dan penutupan jalan jalan utama",
+                "locationName": "Susur dari Jalan Persiaran Kemajuan ke Lebuhraya Persekutuan",
+                "source": "pic/subang-jaya.pdf",
+                "reportedDate": "2020-04-01",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "pic/subang-jaya.pdf",
+                "show": "Sekatan jalan raya dan penutupan jalan jalan utama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.57902,
+                    3.07964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.0787,
+                "longitude": 101.57969,
+                "description": "Sekatan jalan raya dan penutupan jalan jalan utama",
+                "locationName": "Persiaran Tujuan ke Lebuhraya Persekutuan",
+                "source": "pic/subang-jaya.pdf",
+                "reportedDate": "2020-04-01",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "pic/subang-jaya.pdf",
+                "show": "Sekatan jalan raya dan penutupan jalan jalan utama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.57969,
+                    3.0787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.07334,
+                "longitude": 101.58014,
+                "description": "Sekatan jalan raya dan penutupan jalan jalan utama",
+                "locationName": " Jalan Subang Utama ke Lebuhraya NPE",
+                "source": "pic/subang-jaya.pdf",
+                "reportedDate": "2020-04-01",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "pic/subang-jaya.pdf",
+                "show": "Sekatan jalan raya dan penutupan jalan jalan utama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.58014,
+                    3.07334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.06338,
+                "longitude": 101.59319,
+                "description": "Sekatan jalan raya dan penutupan jalan jalan utama",
+                "locationName": "Susur Lebuhraya KESAS ke Persiaran Kemajuan",
+                "source": "pic/subang-jaya.pdf",
+                "reportedDate": "2020-04-01",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "pic/subang-jaya.pdf",
+                "show": "Sekatan jalan raya dan penutupan jalan jalan utama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.59319,
+                    3.06338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.06236,
+                "longitude": 101.59318,
+                "description": "Sekatan jalan raya dan penutupan jalan jalan utama",
+                "locationName": "Susur Lebuhraya KESAS ke USJ 1",
+                "source": "pic/subang-jaya.pdf",
+                "reportedDate": "2020-04-01",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "pic/subang-jaya.pdf",
+                "show": "Sekatan jalan raya dan penutupan jalan jalan utama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.59318,
+                    3.06236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.06212,
+                "longitude": 101.59416,
+                "description": "Sekatan jalan raya dan penutupan jalan jalan utama",
+                "locationName": "Susur Lebuhraya KESAS ke Persiaran Subang USJ 1 (Summit / Giant)",
+                "source": "pic/subang-jaya.pdf",
+                "reportedDate": "2020-04-01",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "pic/subang-jaya.pdf",
+                "show": "Sekatan jalan raya dan penutupan jalan jalan utama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.59416,
+                    3.06212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.06053,
+                "longitude": 101.61326,
+                "description": "Sekatan jalan raya dan penutupan jalan jalan utama",
+                "locationName": " Plaza Tol PJS 7 Lebuhraya LDP Arah Selatan",
+                "source": "pic/subang-jaya.pdf",
+                "reportedDate": "2020-04-01",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "pic/subang-jaya.pdf",
+                "show": "Sekatan jalan raya dan penutupan jalan jalan utama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.61326,
+                    3.06053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.05353,
+                "longitude": 101.56821,
+                "description": "Sekatan jalan raya dan penutupan jalan jalan utama",
+                "locationName": " Plaza Tol Seafield USJ, Subang Jaya",
+                "source": "pic/subang-jaya.pdf",
+                "reportedDate": "2020-04-01",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "pic/subang-jaya.pdf",
+                "show": "Sekatan jalan raya dan penutupan jalan jalan utama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.56821,
+                    3.05353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.02861,
+                "longitude": 101.58004,
+                "description": "Sekatan jalan raya dan penutupan jalan jalan utama",
+                "locationName": "Susur Persiaran Klang ke Persiaran Kewajipan",
+                "source": "pic/subang-jaya.pdf",
+                "reportedDate": "2020-04-01",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "pic/subang-jaya.pdf",
+                "show": "Sekatan jalan raya dan penutupan jalan jalan utama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.58004,
+                    3.02861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.02802,
+                "longitude": 101.57967,
+                "description": "Sekatan jalan raya dan penutupan jalan jalan utama",
+                "locationName": "Dari Hotel One City ke Persiaran Kewajipan",
+                "source": "pic/subang-jaya.pdf",
+                "reportedDate": "2020-04-01",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "pic/subang-jaya.pdf",
+                "show": "Sekatan jalan raya dan penutupan jalan jalan utama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.57967,
+                    3.02802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 2.98975,
+                "longitude": 101.57696,
+                "description": "Sekatan jalan raya dan penutupan jalan jalan utama",
+                "locationName": " Plaza Tol Putra Heights - Elite",
+                "source": "pic/subang-jaya.pdf",
+                "reportedDate": "2020-04-01",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "pic/subang-jaya.pdf",
+                "show": "Sekatan jalan raya dan penutupan jalan jalan utama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.57696,
+                    2.98975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 2.98126,
+                "longitude": 101.63634,
+                "description": "Sekatan jalan raya dan penutupan jalan jalan utama",
+                "locationName": " Plaza Tol Puchong Selatan, Batu 14, Puchong",
+                "source": "pic/subang-jaya.pdf",
+                "reportedDate": "2020-04-01",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "pic/subang-jaya.pdf",
+                "show": "Sekatan jalan raya dan penutupan jalan jalan utama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.63634,
+                    2.98126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 2.11602,
+                "longitude": 102.61352,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Pekan Bukit Pasir",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.61352,
+                    2.11602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.92973,
+                "longitude": 102.85255,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Taman Industri Sri Sulong",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.85255,
+                    1.92973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.87181,
+                "longitude": 103.11683,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Taman Manis",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.11683,
+                    1.87181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.87096,
+                "longitude": 102.99225,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Taman Sri Panchor",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.99225,
+                    1.87096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.86662,
+                "longitude": 102.96175,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Kampung Solok Wan Moh",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.96175,
+                    1.86662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.86463,
+                "longitude": 102.9223,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Jalan Medang, Taman Damai",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.9223,
+                    1.86463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.86412,
+                "longitude": 103.01051,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Taman Sri Mutiara",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.01051,
+                    1.86412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.86322,
+                "longitude": 102.95699,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Jalan Teratai, Kampung Istana",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.95699,
+                    1.86322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.8608,
+                "longitude": 102.96,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Jalan Sentosa, Kampung Bahagia",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.96,
+                    1.8608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.85994,
+                "longitude": 102.93215,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Taman Koperasi Bahagia",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.93215,
+                    1.85994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.85859,
+                "longitude": 103.11396,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Simpang Parit Raja Darat",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.11396,
+                    1.85859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.85635,
+                "longitude": 103.09655,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Taman Siswa Jaya",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.09655,
+                    1.85635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.85315,
+                "longitude": 102.87528,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Kampung Parit Haji Salam",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.87528,
+                    1.85315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.84995,
+                "longitude": 103.04595,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Taman Gading 1",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.04595,
+                    1.84995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.84931,
+                "longitude": 103.11102,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Kampung Parit Daun Darat",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.11102,
+                    1.84931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.84829,
+                "longitude": 103.02359,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Taman Pura Kencana",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.02359,
+                    1.84829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.84744,
+                "longitude": 102.94065,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Jalan Limpoon, Taman Limpoon",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.94065,
+                    1.84744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.8455,
+                "longitude": 102.95113,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Taman Bukit Perdana",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.95113,
+                    1.8455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.84192,
+                "longitude": 102.91213,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Taman Pantai Baru",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.91213,
+                    1.84192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.84094,
+                "longitude": 103.01786,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Kampung Parit Bengkok",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.01786,
+                    1.84094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.84042,
+                "longitude": 103.07313,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Lorong Salleh Ros & Kg Parit Haji Salleh Ros",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.07313,
+                    1.84042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.83869,
+                "longitude": 102.93094,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Jalan Zamrud, Taman Soga",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.93094,
+                    1.83869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.71911,
+                "longitude": 103.08941,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Kampung Parit Botak",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.08941,
+                    1.71911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.66424,
+                "longitude": 103.17998,
+                "description": "Multipl cases of COVID-19 in the area",
+                "locationName": "Kampung Sri Melong Darat",
+                "source": "https://www.facebook.com/106534029382542/photos/pcb.3000306750005241/3000306246671958/?type=3&amp;theater",
+                "reportedDate": "2020-04-01",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 9,
+                "site": "https://www.facebook.com",
+                "show": "Multipl cases of COVID-19 in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.17998,
+                    1.66424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.20661,
+                "longitude": 101.71786,
+                "description": "A resident  tested for positive for COVID-19",
+                "locationName": "PV12 Platinum Lake Condo",
+                "source": "pic/pv12.png",
+                "reportedDate": "2020-03-30",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 11,
+                "site": "pic/pv12.png",
+                "show": "A resident  tested for positive for COVID-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.71786,
+                    3.20661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.15572,
+                "longitude": 101.69794,
+                "description": "Seluruh Menara City One jalani Perintah Kawalan Pergerakan Diperketatkan",
+                "locationName": "Menara City One, Jalan Munshi Abdullah",
+                "source": "https://m.malaysiakini.com/news/517747",
+                "reportedDate": "2020-03-30",
+                "status": "lock down",
+                "entryBy": "Admin",
+                "duration": 11,
+                "site": "https://m.malaysiakini.com",
+                "show": "Seluruh Menara City One jalani Perintah Kawalan Pergerakan Diperketatkan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.69794,
+                    3.15572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.08082,
+                "longitude": 101.77269,
+                "description": "Confirm case at Tower 3 Venice Hill Condominium",
+                "locationName": "Venice Hill Condominium",
+                "source": "pic/venice-hill.png",
+                "reportedDate": "2020-03-30",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 11,
+                "site": "pic/venice-hill.png",
+                "show": "Confirm case at Tower 3 Venice Hill Condominium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.77269,
+                    3.08082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.66754,
+                "longitude": 103.5756,
+                "description": "Tesco Kulai close for disinfection due to positive case of COVID-19",
+                "locationName": "Tesco Kulai",
+                "source": "https://www.facebook.com/TescoMY/photos/a.193199840717931/3031967140174506/?type=3&amp;theater",
+                "reportedDate": "2020-03-30",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 11,
+                "site": "https://www.facebook.com",
+                "show": "Tesco Kulai close for disinfection due to positive case of COVID-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.5756,
+                    1.66754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 5.41784,
+                "longitude": 100.32112,
+                "description": "A case of positive COVID-19 at Tower B",
+                "locationName": "Tropicana 218 Macalister",
+                "source": "https://www.kwongwah.com.my/20200330/%e3%80%90%e6%96%b0%e5%86%a0%e8%82%ba%e7%82%8e%e3%80%91%e6%a7%9ftropicana-218%e5%85%ac%e5%af%93%e5%bc%8f%e9%85%92%e5%ba%97-1%e4%bd%8f%e6%88%b7%e7%a1%ae%e8%af%8a/",
+                "reportedDate": "2020-03-29",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 12,
+                "site": "https://www.kwongwah.com.my",
+                "show": "A case of positive COVID-19 at Tower B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.32112,
+                    5.41784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.14105,
+                "longitude": 101.90668,
+                "description": "OVID-19: Hampir 4,000 penduduk 7 kampung di Sungai Lui, Hulu Langat diperintah 'berkurung'",
+                "locationName": "Batu 24 Sungai Lui, Hulu Langat",
+                "source": "https://www.bharian.com.my/berita/nasional/2020/03/670767/covid-19-hampir-4000-penduduk-7-kampung-di-sungai-lui-hulu-langat",
+                "reportedDate": "2020-03-29",
+                "status": "lock down",
+                "entryBy": "Admin",
+                "duration": 12,
+                "site": "https://www.bharian.com.my",
+                "show": "OVID-19: Hampir 4,000 penduduk 7 kampung di Sungai Lui, Hulu Langat diperintah 'berkurung'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.90668,
+                    3.14105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.17391,
+                "longitude": 101.57578,
+                "description": "Road closed at Persiaran Jati Seksyen 8",
+                "locationName": "Persiaran Jati Seksyen 8, Kota Damansara",
+                "source": "https://www.freemalaysiatoday.com/category/nation/2020/03/28/major-roads-entries-into-pj-closed/",
+                "reportedDate": "2020-03-28",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 13,
+                "site": "https://www.freemalaysiatoday.com",
+                "show": "Road closed at Persiaran Jati Seksyen 8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.57578,
+                    3.17391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.1646,
+                "longitude": 101.57226,
+                "description": "Road closed at Persiaran Sungai Buloh",
+                "locationName": "Persiaran Sungai Buloh, Kota Damansara",
+                "source": "https://www.freemalaysiatoday.com/category/nation/2020/03/28/major-roads-entries-into-pj-closed/",
+                "reportedDate": "2020-03-28",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 13,
+                "site": "https://www.freemalaysiatoday.com",
+                "show": "Road closed at Persiaran Sungai Buloh"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.57226,
+                    3.1646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.1624,
+                "longitude": 101.58438,
+                "description": "Road closed at Persiaran Mahogani Seksyen 9",
+                "locationName": "Persiaran Mahogani Seksyen 9, Kota Damansara",
+                "source": "https://www.freemalaysiatoday.com/category/nation/2020/03/28/major-roads-entries-into-pj-closed/",
+                "reportedDate": "2020-03-28",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 13,
+                "site": "https://www.freemalaysiatoday.com",
+                "show": "Road closed at Persiaran Mahogani Seksyen 9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.58438,
+                    3.1624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.15312,
+                "longitude": 101.6476,
+                "description": "A resident was taken for observation",
+                "locationName": "Desa Damansara",
+                "source": "pic/desa-damansara.jpeg",
+                "reportedDate": "2020-03-28",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 13,
+                "site": "pic/desa-damansara.jpeg",
+                "show": "A resident was taken for observation"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6476,
+                    3.15312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.08666,
+                "longitude": 101.66536,
+                "description": "POLIS menutup Jalan Gasing Indah bagi mengatasi masalah individu masih mengingkari arahan Perintah Kawalan Pergerakan (PKP).",
+                "locationName": "Jalan Gasing Indah, Petaling Jaya",
+                "source": "https://www.hmetro.com.my/mutakhir/2020/03/559577/empat-laluan-ditutup-di-pj",
+                "reportedDate": "2020-03-28",
+                "status": "road closed",
+                "entryBy": "Admin",
+                "duration": 13,
+                "site": "https://www.hmetro.com.my",
+                "show": "POLIS menutup Jalan Gasing Indah bagi mengatasi masalah individu masih mengingkari arahan Perintah Kawalan Pergerakan (PKP)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.66536,
+                    3.08666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.15971,
+                "longitude": 101.66537,
+                "description": "7 petugas Istana Negara positif",
+                "locationName": "Istana Negara, Kuala Lumpur",
+                "source": "https://www.bharian.com.my/berita/nasional/2020/03/669414/covid-19-agong-permaisuri-kuarantin-diri-selepas-7-petugas-istana#utm_source=insider&utm_medium=web_push&utm_campaign=260320-agong&webPushId=MzExOQ==",
+                "reportedDate": "2020-03-26",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 15,
+                "site": "https://www.bharian.com.my",
+                "show": "7 petugas Istana Negara positif"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.66537,
+                    3.15971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.12825,
+                "longitude": 101.63592,
+                "description": "A confirmed case of COVID19 patient",
+                "locationName": "Klinik HM Seksyen 17, PJ",
+                "source": "https://www.sinchew.com.my/content/content_2243401.html",
+                "reportedDate": "2020-03-26",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 15,
+                "site": "https://www.sinchew.com.my",
+                "show": "A confirmed case of COVID19 patient"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.63592,
+                    3.12825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 2.9314,
+                "longitude": 101.66983,
+                "description": "Notis perintah tutup premis dibawah akta pencegahan penyakit berjangkit",
+                "locationName": "Surau Stesen Transit Putrajaya/Cyberjaya",
+                "source": "pic/erl-putrajaya.jpeg",
+                "reportedDate": "2020-03-26",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 15,
+                "site": "pic/erl-putrajaya.jpeg",
+                "show": "Notis perintah tutup premis dibawah akta pencegahan penyakit berjangkit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.66983,
+                    2.9314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.77652,
+                "longitude": 103.29782,
+                "description": "Putrajaya declares two-week lockdown in two areas in Simpang Renggam, effective midnight",
+                "locationName": "Bandar Baharu Dato’ Ibrahim Majid, Simpang Renggam",
+                "source": "https://www.malaymail.com/news/malaysia/2020/03/26/putrajaya-declares-two-week-lockdown-in-two-areas-in-kluang-effective-midni/1850561",
+                "reportedDate": "2020-03-26",
+                "status": "lock down",
+                "entryBy": "Admin",
+                "duration": 15,
+                "site": "https://www.malaymail.com",
+                "show": "Putrajaya declares two-week lockdown in two areas in Simpang Renggam, effective midnight"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.29782,
+                    1.77652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.74689,
+                "longitude": 103.26987,
+                "description": "Putrajaya declares two-week lockdown in two areas in Simpang Renggam, effective midnight",
+                "locationName": "Kampung Dato’ Ibrahim Majid, Simpang Renggam",
+                "source": "https://www.malaymail.com/news/malaysia/2020/03/26/putrajaya-declares-two-week-lockdown-in-two-areas-in-kluang-effective-midni/1850561",
+                "reportedDate": "2020-03-26",
+                "status": "lock down",
+                "entryBy": "Admin",
+                "duration": 15,
+                "site": "https://www.malaymail.com",
+                "show": "Putrajaya declares two-week lockdown in two areas in Simpang Renggam, effective midnight"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.26987,
+                    1.74689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.15483,
+                "longitude": 101.69246,
+                "description": "Confirmed COVID-19 case in Level 19.",
+                "locationName": "UOB, Jalan Raja Laut",
+                "source": "pic/uob-raja-laut.jpeg",
+                "reportedDate": "2020-03-25",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 16,
+                "site": "pic/uob-raja-laut.jpeg",
+                "show": "Confirmed COVID-19 case in Level 19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.69246,
+                    3.15483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.62751,
+                "longitude": 103.22557,
+                "description": "Parit Makuaseng, Benut, Johor",
+                "locationName": "Parit Makuaseng, Benut, Johor",
+                "source": "pic/pontian.jpeg",
+                "reportedDate": "2020-03-25",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 16,
+                "site": "pic/pontian.jpeg",
+                "show": "Parit Makuaseng, Benut, Johor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.22557,
+                    1.62751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.60165,
+                "longitude": 103.32852,
+                "description": " Parit Maklumi, Pontian District, Johor",
+                "locationName": "Ayer Baloi, Pontian (estimated)",
+                "source": "pic/pontian.jpeg",
+                "reportedDate": "2020-03-25",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 16,
+                "site": "pic/pontian.jpeg",
+                "show": " Parit Maklumi, Pontian District, Johor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.32852,
+                    1.60165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.59919,
+                "longitude": 103.47908,
+                "description": "Kg Sri Gambut, Melayu Raya",
+                "locationName": "Melayu Raya, Pontian (estimated)",
+                "source": "pic/pontian.jpeg",
+                "reportedDate": "2020-03-25",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 16,
+                "site": "pic/pontian.jpeg",
+                "show": "Kg Sri Gambut, Melayu Raya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.47908,
+                    1.59919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.51924,
+                "longitude": 103.49458,
+                "description": "Kg Pasir Lama, Pekan Nanas",
+                "locationName": "Pekan Nanas, Pontian (estimated)",
+                "source": "pic/pontian.jpeg",
+                "reportedDate": "2020-03-25",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 16,
+                "site": "pic/pontian.jpeg",
+                "show": "Kg Pasir Lama, Pekan Nanas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.49458,
+                    1.51924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.51073,
+                "longitude": 103.50333,
+                "description": "Kg Masjid Lama, Pekan Nanas",
+                "locationName": "Pekan Nanas, Pontian (estimated)",
+                "source": "pic/pontian.jpeg",
+                "reportedDate": "2020-03-25",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 16,
+                "site": "pic/pontian.jpeg",
+                "show": "Kg Masjid Lama, Pekan Nanas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.50333,
+                    1.51073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.50363,
+                "longitude": 103.39975,
+                "description": "Taman Saujana Pontian",
+                "locationName": "Taman Saujana Pontian",
+                "source": "pic/pontian.jpeg",
+                "reportedDate": "2020-03-25",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 16,
+                "site": "pic/pontian.jpeg",
+                "show": "Taman Saujana Pontian"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.39975,
+                    1.50363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 5.39336,
+                "longitude": 100.36441,
+                "description": "An infected person died of Covid-19 boarded  ETS from Butterworth to KL Sentral on March 7.",
+                "locationName": "Stesen Keretapi Butterworth",
+                "source": "https://www.malaysiakini.com/news/516629",
+                "reportedDate": "2020-03-24",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 17,
+                "site": "https://www.malaysiakini.com",
+                "show": "An infected person died of Covid-19 boarded  ETS from Butterworth to KL Sentral on March 7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.36441,
+                    5.39336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.16066,
+                "longitude": 101.60463,
+                "description": "MUDORA confirmed Covid19 case within our Zone C.",
+                "locationName": "Mutiara Damansara",
+                "source": "pic/mudora.pdf",
+                "reportedDate": "2020-03-24",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 17,
+                "site": "pic/mudora.pdf",
+                "show": "MUDORA confirmed Covid19 case within our Zone C"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.60463,
+                    3.16066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.15001,
+                "longitude": 101.65305,
+                "description": "Masjid Saidina Umar Al Khattab urges kariah to go for COVID-19 test after they found out that 3 member of families are infected by COVID-19",
+                "locationName": "Damansara Heights",
+                "source": "pic/d-heights.PNG",
+                "reportedDate": "2020-03-24",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 17,
+                "site": "pic/d-heights.PNG",
+                "show": "Masjid Saidina Umar Al Khattab urges kariah to go for COVID-19 test after they found out that 3 member of families are infected by COVID-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.65305,
+                    3.15001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.13753,
+                "longitude": 101.59592,
+                "description": "Condo management posted noticed on COVID-19 (suspicious death) in the area.",
+                "locationName": "Riana Green",
+                "source": "pic/riana-green.jpeg",
+                "reportedDate": "2020-03-24",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 17,
+                "site": "pic/riana-green.jpeg",
+                "show": "Condo management posted noticed on COVID-19 (suspicious death) in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.59592,
+                    3.13753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.11693,
+                "longitude": 101.6733,
+                "description": "Management office reported a resident infected by COVID-19",
+                "locationName": "Residensi Vogue 1",
+                "source": "pic/res-vogue.jpeg",
+                "reportedDate": "2020-03-24",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 17,
+                "site": "pic/res-vogue.jpeg",
+                "show": "Management office reported a resident infected by COVID-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6733,
+                    3.11693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 2.93835,
+                "longitude": 101.62929,
+                "description": "A resident tested positive for COVID-19 after travelling to India and Seri Petaling religous center",
+                "locationName": "Setia Marina, Setia Ecoglades",
+                "source": "https://www.facebook.com/mycyberjaya/posts/2504709013112137?__tn__=-R",
+                "reportedDate": "2020-03-24",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 17,
+                "site": "https://www.facebook.com",
+                "show": "A resident tested positive for COVID-19 after travelling to India and Seri Petaling religous center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.62929,
+                    2.93835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 2.26537,
+                "longitude": 102.24932,
+                "description": "An employee of  CTRM, a subsidiary of DRB-HICOM tested positive for Covid-19.",
+                "locationName": "Composites Technology Research Malaysia (CTRM) , DRB-HICOM subsidiary",
+                "source": "https://www.nst.com.my/news/nation/2020/03/577511/one-positive-covid-19-case-drb-hicoms-subsidiary-melaka",
+                "reportedDate": "2020-03-24",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 17,
+                "site": "https://www.nst.com.my",
+                "show": "An employee of  CTRM, a subsidiary of DRB-HICOM tested positive for Covid-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.24932,
+                    2.26537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 4.0046,
+                "longitude": 101.04032,
+                "description": "A number of staffs has been tested positive for COVID-19",
+                "locationName": "Hospital Teluk Intan",
+                "source": "http://www.astroawani.com/berita-malaysia/covid-19-petugas-perubatan-hospital-teluk-intan-sah-dijangkiti-kp-kesihatan-234819",
+                "reportedDate": "2020-03-23",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 18,
+                "site": "http://www.astroawani.com",
+                "show": "A number of staffs has been tested positive for COVID-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.04032,
+                    4.0046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.14952,
+                "longitude": 101.66163,
+                "description": "A customer who had visited the store two days ago had tested positive for Covid-19.",
+                "locationName": "Ben's Independent Grocer, Plaza Batai",
+                "source": "https://www.facebook.com/bensindependentgrocer/posts/1818530694949684",
+                "reportedDate": "2020-03-23",
+                "status": "infection",
+                "entryBy": "malaysiakini.com",
+                "duration": 18,
+                "site": "https://www.facebook.com",
+                "show": "A customer who had visited the store two days ago had tested positive for Covid-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.66163,
+                    3.14952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 2.72815,
+                "longitude": 101.93604,
+                "description": "Two of employees of CIMB  Seremban infected by COVID-19",
+                "locationName": "CIMB Bank Jalan Datuk Bandar Tunggal, Seremban ",
+                "source": "https://www.thestar.com.my/business/business-news/2020/03/23/cimb-confirms-two-seremban-branch-staff-have-covid-19",
+                "reportedDate": "2020-03-23",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 18,
+                "site": "https://www.thestar.com.my",
+                "show": "Two of employees of CIMB  Seremban infected by COVID-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.93604,
+                    2.72815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 5.43506,
+                "longitude": 100.37802,
+                "description": "A resident tested positive for COVID-19",
+                "locationName": "Maklom",
+                "source": "https://www.kwongwah.com.my/20200322/%e6%a7%9f%e9%a6%96%e5%ae%97%e6%96%b0%e5%86%a0%e8%82%ba%e7%82%8e%e6%ad%bb%e4%ba%a1%e6%a1%88-%e6%ad%bb%e8%80%85%e6%9d%a5%e8%87%aa%e5%a8%81%e5%8c%97%e5%8f%8c%e6%ba%aa%e8%b5%96/",
+                "reportedDate": "2020-03-22",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 19,
+                "site": "https://www.kwongwah.com.my",
+                "show": "A resident tested positive for COVID-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.37802,
+                    5.43506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.19847,
+                "longitude": 101.70416,
+                "description": "A resident has been infected by COVID-19",
+                "locationName": "MH Platinum",
+                "source": "pic/mh-platinum.jpeg",
+                "reportedDate": "2020-03-22",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 19,
+                "site": "pic/mh-platinum.jpeg",
+                "show": "A resident has been infected by COVID-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.70416,
+                    3.19847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.16276,
+                "longitude": 101.60601,
+                "description": "A resident of Mutiara Damansara PJU 7 tested positive for COVID-19 attended AGM of 30 people",
+                "locationName": "PJU 7  Mutiara Damansara Phase 10",
+                "source": "pic/PJU7.jpeg",
+                "reportedDate": "2020-03-22",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 19,
+                "site": "pic/PJU7.jpeg",
+                "show": "A resident of Mutiara Damansara PJU 7 tested positive for COVID-19 attended AGM of 30 people"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.60601,
+                    3.16276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.15329,
+                "longitude": 101.71069,
+                "description": "An employee and his immediate family have been under home quarantine since March 19",
+                "locationName": "Menara Bank Islam",
+                "source": "https://www.malaymail.com/news/malaysia/2020/03/22/bank-islam-employee-tested-positive-for-covid-19-but-no-service-disruption/1848944",
+                "reportedDate": "2020-03-22",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 19,
+                "site": "https://www.malaymail.com",
+                "show": "An employee and his immediate family have been under home quarantine since March 19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.71069,
+                    3.15329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.12677,
+                "longitude": 101.67524,
+                "description": "An employee confirmed positive on March 20. The branch sanitised and practice proper hygiene",
+                "locationName": "Dataran Maybank, Bangsar",
+                "source": "https://www.malaymail.com/news/malaysia/2020/03/22/maybank-says-two-employees-positive-for-covid-19-necessary-action-taken/1849098",
+                "reportedDate": "2020-03-22",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 19,
+                "site": "https://www.malaymail.com",
+                "show": "An employee confirmed positive on March 20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.67524,
+                    3.12677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.08392,
+                "longitude": 101.65904,
+                "description": "One of the owners from block A level 30 has been tested positive from COVID-19",
+                "locationName": "Petalz Residence",
+                "source": "pic/petalz.png",
+                "reportedDate": "2020-03-22",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 19,
+                "site": "pic/petalz.png",
+                "show": "One of the owners from block A level 30 has been tested positive from COVID-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.65904,
+                    3.08392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 2.97976,
+                "longitude": 101.75745,
+                "description": "Shell petrol station in Kajang closed after Covid-19 case",
+                "locationName": "Shell Sungai Ramal, Kajang",
+                "source": "https://www.themalaysianinsight.com/s/230897",
+                "reportedDate": "2020-03-22",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 19,
+                "site": "https://www.themalaysianinsight.com",
+                "show": "Shell petrol station in Kajang closed after Covid-19 case"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.75745,
+                    2.97976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 5.68322,
+                "longitude": 100.49194,
+                "description": "Woman infected by family member that went to Tabligh gathering in Masjid Sri Petaling Kuala Lumpur",
+                "locationName": "Pantai Hospital Laguna Merbok",
+                "source": "https://www.facebook.com/1544099552488882/posts/2661161367449356/",
+                "reportedDate": "2020-03-21",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 20,
+                "site": "https://www.facebook.com",
+                "show": "Woman infected by family member that went to Tabligh gathering in Masjid Sri Petaling Kuala Lumpur"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49194,
+                    5.68322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.24318,
+                "longitude": 101.64459,
+                "description": "Two staffs has been infected",
+                "locationName": "Selayang Hospital",
+                "source": "https://www.msn.com/en-my/news/national/two-selayang-hospital-staff-contract-covid-19-all-paediatric-wards-shut/ar-BB11u7MM?ocid=spartandhp",
+                "reportedDate": "2020-03-21",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 20,
+                "site": "https://www.msn.com",
+                "show": "Two staffs has been infected"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.64459,
+                    3.24318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.16432,
+                "longitude": 101.60857,
+                "description": "One resident that return from Germany has been tested positive",
+                "locationName": "Ritze Perdana 2",
+                "source": "pic/ritze.png",
+                "reportedDate": "2020-03-21",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 20,
+                "site": "pic/ritze.png",
+                "show": "One resident that return from Germany has been tested positive"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.60857,
+                    3.16432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.08481,
+                "longitude": 101.69298,
+                "description": "A resident from Block A, has been tested positive for COVID-19",
+                "locationName": "The Leafz",
+                "source": "pic/leafz.png",
+                "reportedDate": "2020-03-21",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 20,
+                "site": "pic/leafz.png",
+                "show": "A resident from Block A, has been tested positive for COVID-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.69298,
+                    3.08481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.06758,
+                "longitude": 101.49705,
+                "description": "A student infected by COVID-19 attended class on 15th March",
+                "locationName": "UiTM Shah Alam",
+                "source": "https://www.hmetro.com.my/mutakhir/2020/03/557056/penuntut-uitm-disahkan-positif-covid-19",
+                "reportedDate": "2020-03-21",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 20,
+                "site": "https://www.hmetro.com.my",
+                "show": "A student infected by COVID-19 attended class on 15th March"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.49705,
+                    3.06758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 2.99933,
+                "longitude": 101.70575,
+                "description": "A staff tested positive for COVID-19 on March 21, 2020",
+                "locationName": "Universiti Putra Malaysia",
+                "source": "https://www.facebook.com/UPMISA.page/photos/a.198694896930680/1934288800037939/?type=3",
+                "reportedDate": "2020-03-21",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 20,
+                "site": "https://www.facebook.com",
+                "show": "A staff tested positive for COVID-19 on March 21, 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.70575,
+                    2.99933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 2.20825,
+                "longitude": 102.21176,
+                "description": "A patient  admitted after he had been in contact with a colleague who had tested for Covid-19.",
+                "locationName": "Oriental Melaka Straits Medical Centre",
+                "source": "https://www.thestar.com.my/news/nation/2020/03/22/man-linked-to-tabligh-cluster-admits-covid-19-exposure-only-after-treatment",
+                "reportedDate": "2020-03-21",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 20,
+                "site": "https://www.thestar.com.my",
+                "show": "A patient  admitted after he had been in contact with a colleague who had tested for Covid-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.21176,
+                    2.20825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 6.44106,
+                "longitude": 100.18916,
+                "description": "Seorang kakitangan HTF disahkan positif Covid-19",
+                "locationName": " Hospital Tuanku Fauziah",
+                "source": "https://www.sinarharian.com.my/article/74556/KHAS/Koronavirus/Seorang-kakitangan-HTF-disahkan-positif-Covid-19",
+                "reportedDate": "2020-03-20",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 21,
+                "site": "https://www.sinarharian.com.my",
+                "show": "Seorang kakitangan HTF disahkan positif Covid-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.18916,
+                    6.44106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 6.01561,
+                "longitude": 101.98296,
+                "description": "At least one person has been infected in the area",
+                "locationName": "Rantau Panjang",
+                "source": "http://kl.chinapress.com.my/20200320/%E2%97%A4%E5%85%A8%E7%90%83%E5%A4%A7%E6%B5%81%E8%A1%8C%E2%97%A2-%E5%A4%A7%E5%9F%8E%E5%A0%A1%E4%B8%87%E4%BA%BA%E9%9B%86%E4%BC%9A%E5%8F%88%E6%9C%893%E4%BA%BA%E7%A1%AE%E8%AF%8A-%E4%BB%8A%E6%AC%A1/",
+                "reportedDate": "2020-03-20",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 21,
+                "site": "http://kl.chinapress.com.my",
+                "show": "At least one person has been infected in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.98296,
+                    6.01561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 5.28879,
+                "longitude": 100.51053,
+                "description": "One or more person has been infected around this area",
+                "locationName": "Kampung Padang Lalang",
+                "source": "http://eastcoast.chinapress.com.my/20200320/%e6%b7%a1%e9%a9%ac%e9%b2%81%e4%b8%80%e7%94%b7%e5%ad%90%e7%a1%ae%e8%af%8a-34%e4%ba%ba%e5%88%b0%e8%af%8a%e6%89%80%e6%8e%a5%e5%8f%97%e6%a3%80%e9%aa%8c/",
+                "reportedDate": "2020-03-20",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 21,
+                "site": "http://eastcoast.chinapress.com.my",
+                "show": "One or more person has been infected around this area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51053,
+                    5.28879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.11222,
+                "longitude": 101.6345,
+                "description": "A members has been tested positive with COVID-19",
+                "locationName": "Damansara Utama Methodist Church",
+                "source": "https://www.chinapress.com.my/20200320/%E2%97%A4%E5%85%A8%E7%90%83%E5%A4%A7%E6%B5%81%E8%A1%8C%E2%97%A2-%E7%99%BE%E4%B9%90%E9%95%87%E5%8D%AB%E7%90%86%E5%85%AC%E4%BC%9A%E8%AF%81%E5%AE%9E-1%E6%95%99%E5%8F%8B%E7%A1%AE%E8%AF%8A/",
+                "reportedDate": "2020-03-20",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 21,
+                "site": "https://www.chinapress.com.my",
+                "show": "A members has been tested positive with COVID-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6345,
+                    3.11222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.077,
+                "longitude": 101.3792,
+                "description": "At least one person has been infected in the area",
+                "locationName": "Kampung Sementa",
+                "source": "http://kl.chinapress.com.my/20200320/%E2%97%A4%E5%85%A8%E7%90%83%E5%A4%A7%E6%B5%81%E8%A1%8C%E2%97%A2-%E5%A4%A7%E5%9F%8E%E5%A0%A1%E4%B8%87%E4%BA%BA%E9%9B%86%E4%BC%9A%E5%8F%88%E6%9C%893%E4%BA%BA%E7%A1%AE%E8%AF%8A-%E4%BB%8A%E6%AC%A1/",
+                "reportedDate": "2020-03-20",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 21,
+                "site": "http://kl.chinapress.com.my",
+                "show": "At least one person has been infected in the area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.3792,
+                    3.077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.83015,
+                "longitude": 103.28498,
+                "description": "The Kuantan Health Office confirmed a bus passenger from Johor Bahru to Kuantan confirmed Covid-19 positive.",
+                "locationName": "Terminal Sentral Kuantan",
+                "source": "https://www.freemalaysiatoday.com/category/bahasa/2020/03/19/penumpang-bas-jb-ke-kuantan-positif-covid-19-kata-pejabat-kesihatan/",
+                "reportedDate": "2020-03-19",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 22,
+                "site": "https://www.freemalaysiatoday.com",
+                "show": "The Kuantan Health Office confirmed a bus passenger from Johor Bahru to Kuantan confirmed Covid-19 positive"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.28498,
+                    3.83015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.53015,
+                "longitude": 103.38629,
+                "description": "DRB-HICOM Auto Solutions Sdn Bhd (DHAS) in Pekan, Pahang has been tested positive with COVID-19. ",
+                "locationName": "DRB HICOM",
+                "source": "http://english.astroawani.com/malaysia-news/one-positive-covid-19-case-drb-hicoms-subsidiary-pekan-234274",
+                "reportedDate": "2020-03-19",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 22,
+                "site": "http://english.astroawani.com",
+                "show": "DRB-HICOM Auto Solutions Sdn Bhd (DHAS) in Pekan, Pahang has been tested positive with COVID-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.38629,
+                    3.53015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.13159,
+                "longitude": 101.62776,
+                "description": "Telekom Malaysia Berhad  confirmed that it has identified a suspected case of Covid-19 among its personnel",
+                "locationName": "TM ONE Damansara",
+                "source": "https://www.nst.com.my/news/nation/2020/03/576510/first-suspected-covid-19-case-tm",
+                "reportedDate": "2020-03-19",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 22,
+                "site": "https://www.nst.com.my",
+                "show": "Telekom Malaysia Berhad  confirmed that it has identified a suspected case of Covid-19 among its personnel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.62776,
+                    3.13159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.10004,
+                "longitude": 101.64602,
+                "description": "An employee from Standard Chartered Malaysia's Petaling Jaya branch has tested positive for Covid-19.",
+                "locationName": "Standard Charterd - PJ",
+                "source": "https://www.thestar.com.my/business/business-news/2020/03/18/stanchart-malaysia-employee-tests-positive-for-covid-19",
+                "reportedDate": "2020-03-19",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 22,
+                "site": "https://www.thestar.com.my",
+                "show": "An employee from Standard Chartered Malaysia's Petaling Jaya branch has tested positive for Covid-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.64602,
+                    3.10004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.08812,
+                "longitude": 101.5192,
+                "description": "Three top police officers are under quarantine following contact with a person who tested positive for Covid-19",
+                "locationName": "Surau Khalid al-Walid",
+                "source": "https://www.malaysiakini.com/news/515009",
+                "reportedDate": "2020-03-19",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 22,
+                "site": "https://www.malaysiakini.com",
+                "show": "Three top police officers are under quarantine following contact with a person who tested positive for Covid-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.5192,
+                    3.08812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.05758,
+                "longitude": 101.68298,
+                "description": "Thirty-seven national athletes and 10 officials, who had close contact with hammer thrower Jackie Wong, have been quarantined.",
+                "locationName": "National Sports Institute",
+                "source": "https://www.nst.com.my/sports/others/2020/03/575511/37-athletes-quarantined-nsc-shut-operations",
+                "reportedDate": "2020-03-19",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 22,
+                "site": "https://www.nst.com.my",
+                "show": "Thirty-seven national athletes and 10 officials, who had close contact with hammer thrower Jackie Wong, have been quarantined"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.68298,
+                    3.05758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.0468,
+                "longitude": 101.69413,
+                "description": "Mimos Berhad today confirmed that an employee at its Technology Park Malaysia office in Bukit Jalil has tested positive for Covid-19 and is now receiving medical attention at Hospital Kuala Lumpur.",
+                "locationName": "Mimos Berhad",
+                "source": "https://www.nst.com.my/news/nation/2020/03/576182/mimos-employee-tests-positive-covid-19",
+                "reportedDate": "2020-03-19",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 22,
+                "site": "https://www.nst.com.my",
+                "show": "Mimos Berhad today confirmed that an employee at its Technology Park Malaysia office in Bukit Jalil has tested positive for Covid-19 and is now receiving medical attention at Hospital Kuala Lumpur"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.69413,
+                    3.0468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.17489,
+                "longitude": 101.73267,
+                "description": "One of resident at block D has been tested positive",
+                "locationName": "1 Mont Kiara",
+                "source": "pic/seri-maya.png",
+                "reportedDate": "2020-03-18",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 23,
+                "site": "pic/seri-maya.png",
+                "show": "One of resident at block D has been tested positive"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.73267,
+                    3.17489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.16555,
+                "longitude": 101.65318,
+                "description": "16 March, Wisma Mont Kiara have been informed by a tenant that a member of its staff's relative has been tested positive for Covid-19.",
+                "locationName": "1 Mont Kiara",
+                "source": "https://www.facebook.com/1montkiara/photos/a.10151777494351680/10157191240056680/?type=3",
+                "reportedDate": "2020-03-18",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 23,
+                "site": "https://www.facebook.com",
+                "show": "16 March, Wisma Mont Kiara have been informed by a tenant that a member of its staff's relative has been tested positive for Covid-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.65318,
+                    3.16555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.15173,
+                "longitude": 101.66382,
+                "description": "The building management sent a notice to all the tenants about one of the occupant employees has been tested positive",
+                "locationName": "Wisma UOA Damansara II",
+                "source": "pic/uoa.png",
+                "reportedDate": "2020-03-18",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 23,
+                "site": "pic/uoa.png",
+                "show": "The building management sent a notice to all the tenants about one of the occupant employees has been tested positive"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.66382,
+                    3.15173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.13227,
+                "longitude": 101.6825,
+                "description": "A chairman of the company has tested positive.",
+                "locationName": "Velesto Energy, KL Sentral",
+                "source": "https://www.theedgemarkets.com/article/covid19-velesto-confirms-chairman-tested-positive-virus",
+                "reportedDate": "2020-03-18",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 23,
+                "site": "https://www.theedgemarkets.com",
+                "show": "A chairman of the company has tested positive"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6825,
+                    3.13227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 2.93512,
+                "longitude": 101.47346,
+                "description": "Timbalan Nazir Masjid Jamiatul Ehsan Sijangkang, GB SRITI Sijangkang confirmed positive",
+                "locationName": "Poliklinik Sijangkang",
+                "source": "https://www.facebook.com/ahmadyunus.hairi/posts/2912109242211181",
+                "reportedDate": "2020-03-17",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 24,
+                "site": "https://www.facebook.com",
+                "show": "Timbalan Nazir Masjid Jamiatul Ehsan Sijangkang, GB SRITI Sijangkang confirmed positive"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.47346,
+                    2.93512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.19392,
+                "longitude": 101.73472,
+                "description": "One of resident has been infected and sent to HKL on 15/3/2020",
+                "locationName": "Villa Wangsamas",
+                "source": "pic/wangsamas.png",
+                "reportedDate": "2020-03-16",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 25,
+                "site": "pic/wangsamas.png",
+                "show": "One of resident has been infected and sent to HKL on 15/3/2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.73472,
+                    3.19392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.15251,
+                "longitude": 101.62059,
+                "description": "Gym members has tested positive.",
+                "locationName": "Babel Gym, Menara Ken, TTDI",
+                "source": "https://codeblue.galencentre.org/2020/03/16/ttdi-gym-member-gets-covid-19/",
+                "reportedDate": "2020-03-16",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 25,
+                "site": "https://codeblue.galencentre.org",
+                "show": "Gym members has tested positive"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.62059,
+                    3.15251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 2.93649,
+                "longitude": 101.47354,
+                "description": "Seorang pesakit disahkan positif Covid-19 telah hadir pada 16 MAC 2020 ke  Klinik Siti Taman Perwira, Sijangkang, Selangor",
+                "locationName": "Klinik Siti Taman Perwira",
+                "source": "https://www.facebook.com/kliniksititpg/photos/a.436184913411884/1069432660087103/?type=3&amp;theater",
+                "reportedDate": "2020-03-16",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 25,
+                "site": "https://www.facebook.com",
+                "show": "Seorang pesakit disahkan positif Covid-19 telah hadir pada 16 MAC 2020 ke  Klinik Siti Taman Perwira, Sijangkang, Selangor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.47354,
+                    2.93649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.72104,
+                "longitude": 103.11962,
+                "description": "A student has been tested positive",
+                "locationName": "UMP Campus Gambang",
+                "source": "https://www.facebook.com/mppump.official/photos/pcb.2285536145081061/2285535815081094/?type=3&amp;theater",
+                "reportedDate": "2020-03-15",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 26,
+                "site": "https://www.facebook.com",
+                "show": "A student has been tested positive"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.11962,
+                    3.72104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.1209,
+                "longitude": 101.65165,
+                "description": "University confirmed that a guest speaker who gave a talk on 28 February tested positive on 6 March",
+                "locationName": "Universiti Malaya",
+                "source": "https://www.malaysiakini.com/news/514804",
+                "reportedDate": "2020-03-15",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 26,
+                "site": "https://www.malaysiakini.com",
+                "show": "University confirmed that a guest speaker who gave a talk on 28 February tested positive on 6 March"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.65165,
+                    3.1209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.01387,
+                "longitude": 101.56648,
+                "description": "A person found to be infected with COVID-19, after returning from a holiday in Vietnam.",
+                "locationName": "Masjid Al Munawwarah",
+                "source": "https://www.bharian.com.my/berita/nasional/2020/03/665459/masjid-ditutup-selepas-jemaah-positif-covid-19",
+                "reportedDate": "2020-03-15",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 26,
+                "site": "https://www.bharian.com.my",
+                "show": "A person found to be infected with COVID-19, after returning from a holiday in Vietnam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.56648,
+                    3.01387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 2.93808,
+                "longitude": 101.7746,
+                "description": "A patient visited the clinic was tested positive later on. Disinfection will be carry out",
+                "locationName": "Klinik Suraya, Bangi",
+                "source": "https://www.facebook.com/photo.php?fbid=2969698189717723&amp;set=a.112472765440294&amp;type=3",
+                "reportedDate": "2020-03-15",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 26,
+                "site": "https://www.facebook.com",
+                "show": "A patient visited the clinic was tested positive later on"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.7746,
+                    2.93808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 2.25644,
+                "longitude": 111.9867,
+                "description": "The MP for Sarikei, attended several political meetings in Kuala Lumpur from Feb 29",
+                "locationName": "Sibu Airport",
+                "source": "https://www.freemalaysiatoday.com/category/nation/2020/03/14/sarikei-mp-in-hospital-as-covid-19-patient/",
+                "reportedDate": "2020-03-15",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 26,
+                "site": "https://www.freemalaysiatoday.com",
+                "show": "The MP for Sarikei, attended several political meetings in Kuala Lumpur from Feb 29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.9867,
+                    2.25644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 2.14387,
+                "longitude": 102.72561,
+                "description": "Universiti Tun Hussein Onn Malaysia (UTHM) today confirmed that one of its university staff has tested positive for the Covid-19 virus.",
+                "locationName": "Universiti Tun Hussein Onn Malaysia (UTHM)",
+                "source": "https://www.malaymail.com/news/malaysia/2020/03/15/covid-19-johors-uthm-suspends-lessons-gatherings-after-one-university-staff/1846796",
+                "reportedDate": "2020-03-15",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 26,
+                "site": "https://www.malaymail.com",
+                "show": "Universiti Tun Hussein Onn Malaysia (UTHM) today confirmed that one of its university staff has tested positive for the Covid-19 virus"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.72561,
+                    2.14387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 5.4192,
+                "longitude": 100.33876,
+                "description": "An employee at Lebuh Bishop branch in Penang, had attended a four-day tabligh missionary gathering in Masjid Sri Petaling,",
+                "locationName": "UOB - Lebuh Bishop",
+                "source": "https://www.thestar.com.my/news/nation/2020/03/14/uob-employee-in-penang-tests-positive-for-covid-19",
+                "reportedDate": "2020-03-14",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 27,
+                "site": "https://www.thestar.com.my",
+                "show": "An employee at Lebuh Bishop branch in Penang, had attended a four-day tabligh missionary gathering in Masjid Sri Petaling,"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.33876,
+                    5.4192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 1.47089,
+                "longitude": 110.29952,
+                "description": "The nation's first Covid-19-related death was recorded in Sarawak on Tuesday (March 17)",
+                "locationName": "Emmanuel Baptist Church",
+                "source": "https://www.thestar.com.my/news/nation/2020/03/17/pastor-from-sarawak-is-first-covid-19-fatality-in-malaysia",
+                "reportedDate": "2020-03-14",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 27,
+                "site": "https://www.thestar.com.my",
+                "show": "The nation's first Covid-19-related death was recorded in Sarawak on Tuesday (March 17)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.29952,
+                    1.47089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.17472,
+                "longitude": 101.65541,
+                "description": "The building’s management announced in a circular that one of their residents had tested positive on 13 March",
+                "locationName": "La Grande, Mont Kiara",
+                "source": "https://twitter.com/momomoonpee/status/1238669676416077824",
+                "reportedDate": "2020-03-13",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 28,
+                "site": "https://twitter.com",
+                "show": "The building’s management announced in a circular that one of their residents had tested positive on 13 March"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.65541,
+                    3.17472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.14544,
+                "longitude": 101.64257,
+                "description": "A non-executive Securities Commission director tested positive on Mar 12. All staff were told to work from home.",
+                "locationName": "Securities Commission",
+                "source": "https://www.freemalaysiatoday.com/category/bahasa/2020/03/13/ahli-lembaga-sc-suruhanjaya-persaingan-positif-covid-19/",
+                "reportedDate": "2020-03-13",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 28,
+                "site": "https://www.freemalaysiatoday.com",
+                "show": "A non-executive Securities Commission director tested positive on Mar 12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.64257,
+                    3.14544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 4.58344,
+                "longitude": 114.0749,
+                "description": "Brunei's Case 1 crossed the Malaysia-Brunei land border, at the Sungai Tujuh immigration checkpoint 35 kms from Miri.",
+                "locationName": "Sungai Tujuh immigration checkpoint",
+                "source": "https://www.thestar.com.my/news/nation/2020/03/12/covid-19-bruneian-who-went-to-kl-mosque-shopping-in-miri-found-infected",
+                "reportedDate": "2020-03-12",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 29,
+                "site": "https://www.thestar.com.my",
+                "show": "Brunei's Case 1 crossed the Malaysia-Brunei land border, at the Sungai Tujuh immigration checkpoint 35 kms from Miri"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0749,
+                    4.58344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.13398,
+                "longitude": 101.685,
+                "description": "A Malaysia Competitions Commission (MyCC) member has tested positive. The commissioner last frequented the MyCC office on Feb 29. ",
+                "locationName": "Menara SSM",
+                "source": "https://www.malaysiakini.com/news/514486",
+                "reportedDate": "2020-03-12",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 29,
+                "site": "https://www.malaysiakini.com",
+                "show": "A Malaysia Competitions Commission (MyCC) member has tested positive"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.685,
+                    3.13398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.52542,
+                "longitude": 101.9056,
+                "description": "Case 131 sought treatment at Hospital Bentong for respitory problems on Mar 8 before transferred to Hospital Tengku Ampuan Afzan the next day and tested positive on Mar 10.",
+                "locationName": "Hospital Bentong",
+                "source": "https://www.malaysiakini.com/news/514293",
+                "reportedDate": "2020-03-11",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 30,
+                "site": "https://www.malaysiakini.com",
+                "show": "Case 131 sought treatment at Hospital Bentong for respitory problems on Mar 8 before transferred to Hospital Tengku Ampuan Afzan the next day and tested positive on Mar 10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.9056,
+                    3.52542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.16639,
+                "longitude": 101.69251,
+                "description": "An employee of Sunway tested positive after having close contact with a Covid-19 patient.",
+                "locationName": "Sunway Putra Mall",
+                "source": "https://www.facebook.com/story.php?story_fbid=2508075182630975&amp;id=498404430264737",
+                "reportedDate": "2020-03-11",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 30,
+                "site": "https://www.facebook.com",
+                "show": "An employee of Sunway tested positive after having close contact with a Covid-19 patient"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.69251,
+                    3.16639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.1592,
+                "longitude": 101.69589,
+                "description": "A Suhakam commissioner tested positive after close contact with a Covid-19 patient.",
+                "locationName": "Menara TH Perdana",
+                "source": "https://www.suhakam.org.my/press-statement-no-5-of-2020-covid-19-case-in-suhakam/",
+                "reportedDate": "2020-03-11",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 30,
+                "site": "https://www.suhakam.org.my",
+                "show": "A Suhakam commissioner tested positive after close contact with a Covid-19 patient"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.69589,
+                    3.1592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.15391,
+                "longitude": 101.69003,
+                "description": "An employee tested positive on Mar 8. ",
+                "locationName": "JKR HQ",
+                "source": "https://twitter.com/JKRMalaysia/status/1237680354317795333",
+                "reportedDate": "2020-03-11",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 30,
+                "site": "https://twitter.com",
+                "show": "An employee tested positive on Mar 8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.69003,
+                    3.15391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.11038,
+                "longitude": 101.58656,
+                "description": "A teacher tested positive on Mar 10, after developing symptoms on Mar 4. Her family members had close contact with a Covid-19 patient.",
+                "locationName": "REAL Kids Ara Damansara",
+                "source": "https://www.chinapress.com.my/?p=1936678",
+                "reportedDate": "2020-03-11",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 30,
+                "site": "https://www.chinapress.com.my",
+                "show": "A teacher tested positive on Mar 10, after developing symptoms on Mar 4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.58656,
+                    3.11038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.06759,
+                "longitude": 101.51525,
+                "description": "A Sirim employee tested positive, the agency said in a statement on March 11.",
+                "locationName": "Sirim HQ",
+                "source": "thttps://www.bernama.com/en/news.php?id=1820371",
+                "reportedDate": "2020-03-11",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 30,
+                "site": "https://www.bernama.com",
+                "show": "A Sirim employee tested positive, the agency said in a statement on March 11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.51525,
+                    3.06759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.05442,
+                "longitude": 101.75536,
+                "description": "A student tested postive on Mar 11. Examinations for the student's year have been posptoned",
+                "locationName": "SMK Bandar Tun Hussein Onn 2",
+                "source": "https://www.orientaldaily.com.my/news/nation/2020/03/12/330653",
+                "reportedDate": "2020-03-11",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 30,
+                "site": "https://www.orientaldaily.com.my",
+                "show": "A student tested postive on Mar 11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.75536,
+                    3.05442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 2.92159,
+                "longitude": 101.66384,
+                "description": "An employee tested positive on Mar 10, after being in quaratine since Mar 4. Her husband had contact with a Covid-19 patient.",
+                "locationName": "MCMC HQ",
+                "source": "https://www.mcmc.gov.my/en/media/press-releases/media-statement-mcmc-bolsters-precautionary-measur",
+                "reportedDate": "2020-03-11",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 30,
+                "site": "https://www.mcmc.gov.my",
+                "show": "An employee tested positive on Mar 10, after being in quaratine since Mar 4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.66384,
+                    2.92159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 5.72684,
+                "longitude": 115.92388,
+                "description": "Sabah's second patient was first admitted to Hospital Papar where he was tested on Mar 12. ",
+                "locationName": "Hospital Papar",
+                "source": "http://www.dailyexpress.com.my/news/148674/exclusive-sabah-s-second-positive-covid-19-case-in-papar/",
+                "reportedDate": "2020-03-10",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 31,
+                "site": "http://www.dailyexpress.com.my",
+                "show": "Sabah's second patient was first admitted to Hospital Papar where he was tested on Mar 12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.92388,
+                    5.72684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 4.32194,
+                "longitude": 113.98523,
+                "description": "Brunei's first case had traveled from Kuala Lumpur to Brunei via an AirAsia flight on March 3.",
+                "locationName": "Miri Airport",
+                "source": "https://www.malaysiakini.com/news/514159",
+                "reportedDate": "2020-03-10",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 31,
+                "site": "https://www.malaysiakini.com",
+                "show": "Brunei's first case had traveled from Kuala Lumpur to Brunei via an AirAsia flight on March 3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.98523,
+                    4.32194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.21162,
+                "longitude": 101.74868,
+                "description": "A customer at A Saloon who visited on March 2, 2020 tested positive for Covid-19.",
+                "locationName": "A-Saloon+, Melawati Mall",
+                "source": "https://www.facebook.com/MelawatiMallOfficial/posts/2639302866291053",
+                "reportedDate": "2020-03-10",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 31,
+                "site": "https://www.facebook.com",
+                "show": "A customer at A Saloon who visited on March 2, 2020 tested positive for Covid-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.74868,
+                    3.21162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.18011,
+                "longitude": 101.65551,
+                "description": "Mesra Terrace management sent notice that a resident tested positive for COVID-19",
+                "locationName": "Mesra Terrace,  Dutamas",
+                "source": "pic/mesra.jpeg",
+                "reportedDate": "2020-03-10",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 31,
+                "site": "pic/mesra.jpeg",
+                "show": "Mesra Terrace management sent notice that a resident tested positive for COVID-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.65551,
+                    3.18011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.15415,
+                "longitude": 101.695,
+                "description": "An EPF member visited the outlet on Feb 27, 2020 from 2pm to 2.30pm. ",
+                "locationName": "EPF outlet, Jalan Raja Laut",
+                "source": "https://www.google.com/url?q=https://www.thestar.com.my/news/nation/2020/03/10/epf-jalan-raja-laut-temporarily-closed-after-visit-by-covid-19-positive-member&amp;sa=D&amp;ust=1583866940050000&amp;usg=AFQjCNEx6CaaxgHbLcb9NDa1wsybfp3b0g",
+                "reportedDate": "2020-03-10",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 31,
+                "site": "https://www.google.com",
+                "show": "An EPF member visited the outlet on Feb 27, 2020 from 2pm to 2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.695,
+                    3.15415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.13374,
+                "longitude": 101.69934,
+                "description": "A student's parent tested positive. The school informed other parents in a letter on March 10.",
+                "locationName": "SJKC Kuen Cheng (1)",
+                "source": "https://www.edgeprop.my/content/1659028/kuen-cheng-1-school-conduct-sanitization-procedure",
+                "reportedDate": "2020-03-10",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 31,
+                "site": "https://www.edgeprop.my",
+                "show": "A student's parent tested positive"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.69934,
+                    3.13374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.1097,
+                "longitude": 101.63607,
+                "description": "An insurance agent who attended a training session at the AIA office in Plaza 33 on 4 March tested positive.",
+                "locationName": "Plaza 33",
+                "source": "https://www.sinchew.com.my/content/content_2231663.html",
+                "reportedDate": "2020-03-10",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 31,
+                "site": "https://www.sinchew.com.my",
+                "show": "An insurance agent who attended a training session at the AIA office in Plaza 33 on 4 March tested positive"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.63607,
+                    3.1097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.09245,
+                "longitude": 101.55956,
+                "description": "A student tested positive and has been quarantined since March 1. All relevant areas of the campus have been sanitised.",
+                "locationName": "KDU Glenmarie Campus",
+                "source": "https://www.chinapress.com.my/20200311/%e2%97%a4%e5%85%a8%e7%90%83%e7%96%ab%e6%80%a5%e2%97%a2-uow-malaysia-kdu%e8%af%81%e5%ae%9e-1%e5%a5%b3%e5%ad%a6%e9%99%a2%e7%94%9f%e6%a0%a1%e5%a4%96%e6%84%9f%e6%9f%93/",
+                "reportedDate": "2020-03-10",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 31,
+                "site": "https://www.chinapress.com.my",
+                "show": "A student tested positive and has been quarantined since March 1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.55956,
+                    3.09245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.06841,
+                "longitude": 101.68944,
+                "description": "Brunei's 1st case was diagnosed after returning from Kuala Lumpur attending a religious event in Masjid Jamek Sri Petaling.",
+                "locationName": "Masjid Jamek Sri Petaling",
+                "source": "http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=368",
+                "reportedDate": "2020-03-10",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 31,
+                "site": "http://www.moh.gov.bn",
+                "show": "Brunei's 1st case was diagnosed after returning from Kuala Lumpur attending a religious event in Masjid Jamek Sri Petaling"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.68944,
+                    3.06841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.04641,
+                "longitude": 101.77093,
+                "description": "A student tested positive on March 10 &amp; had not been in school since March 4. ",
+                "locationName": "SJK (C) Batu 11 Cheras",
+                "source": "https://www.chinapress.com.my/?p=1936678",
+                "reportedDate": "2020-03-10",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 31,
+                "site": "https://www.chinapress.com.my",
+                "show": "A student tested positive on March 10 &amp; had not been in school since March 4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.77093,
+                    3.04641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 5.296,
+                "longitude": 100.2929,
+                "description": "An employee tested positive after visiting Kuala Lumpur more than a week before that.",
+                "locationName": "Motorola Solutions Malaysia, Bayan Lepas",
+                "source": "trnhttps://www.nst.com.my/news/nation/2020/03/573463/motorola-confirms-penang-employee-positive-covid-19",
+                "reportedDate": "2020-03-09",
+                "status": "infection",
+                "entryBy": "malaysiakini.com",
+                "duration": 32,
+                "site": "https://www.nst.com.my",
+                "show": "An employee tested positive after visiting Kuala Lumpur more than a week before that"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.2929,
+                    5.296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.08986,
+                "longitude": 101.62832,
+                "description": "An employee developed symptoms on March 2 and started to self-quarantine.",
+                "locationName": "Hong Leong Assurance HQ",
+                "source": "https://www.nst.com.my/news/nation/2020/03/572986/employee-hong-leongs-takaful-pj-hq-contracts-covid-19",
+                "reportedDate": "2020-03-09",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 32,
+                "site": "https://www.nst.com.my",
+                "show": "An employee developed symptoms on March 2 and started to self-quarantine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.62832,
+                    3.08986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.07178,
+                "longitude": 101.62489,
+                "description": "A resident tested positive for Covid-19, the management said. ",
+                "locationName": "Koi Kinrara Suites",
+                "source": "https://www.facebook.com/FTopNews/photos/a.702878063060423/3381407638540772/?type=3",
+                "reportedDate": "2020-03-09",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 32,
+                "site": "https://www.facebook.com",
+                "show": "A resident tested positive for Covid-19, the management said"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.62489,
+                    3.07178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.04757,
+                "longitude": 101.61787,
+                "description": "Fitness First sent an email to members to say that the IOI Mall outlet closed on the weekend of March 8-9",
+                "locationName": "Fitness First, IOI Mall",
+                "source": "Email sent to members. A member sent it to Malaysiakini",
+                "reportedDate": "2020-03-09",
+                "status": "infection",
+                "entryBy": "malaysiakini.com",
+                "duration": 32,
+                "site": "Email sent to members. A member sent it to Malaysiakini",
+                "show": "Fitness First sent an email to members to say that the IOI Mall outlet closed on the weekend of March 8-9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.61787,
+                    3.04757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.14984,
+                "longitude": 101.69885,
+                "description": "An employee has been placed under home quarantine since March 1 and has tested positive for Covid-19. ",
+                "locationName": "Menara Maybank",
+                "source": "https://m.malaysiakini.com/news/513802",
+                "reportedDate": "2020-03-08",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 33,
+                "site": "https://m.malaysiakini.com",
+                "show": "An employee has been placed under home quarantine since March 1 and has tested positive for Covid-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.69885,
+                    3.14984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.16022,
+                "longitude": 101.71682,
+                "description": "A Covid-19 patient attended the Kuala Lumpur Bar AGM held at Wisma MCA's San Choon Hall.",
+                "locationName": "Wisma MCA",
+                "source": "MCA press statement",
+                "reportedDate": "2020-03-06",
+                "status": "infection",
+                "entryBy": "malaysiakini.com",
+                "duration": 35,
+                "site": "MCA press statement",
+                "show": "A Covid-19 patient attended the Kuala Lumpur Bar AGM held at Wisma MCA's San Choon Hall"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.71682,
+                    3.16022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.03959,
+                "longitude": 101.6527,
+                "description": "A student's parent, who works at the Ministry of Finance, tested postive.",
+                "locationName": "Brainy Bunch Bukit Kinrara",
+                "source": "https://www.sinarharian.com.my/article/72718/KHAS/Koronavirus/Brainy-Bunch-tutup-cawangan-Bandar-Kinrara-serta-merta",
+                "reportedDate": "2020-03-06",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 35,
+                "site": "https://www.sinarharian.com.my",
+                "show": "A student's parent, who works at the Ministry of Finance, tested postive"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6527,
+                    3.03959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.01306,
+                "longitude": 101.61088,
+                "description": "A parishioner from the Church of Our Lady of Guadalupe in Taman Industri, Puchong, had tested positive on March 5.",
+                "locationName": "Church of Our Lady of Guadalupe",
+                "source": "https://www.malaysiakini.com/news/513576",
+                "reportedDate": "2020-03-06",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 35,
+                "site": "https://www.malaysiakini.com",
+                "show": "A parishioner from the Church of Our Lady of Guadalupe in Taman Industri, Puchong, had tested positive on March 5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.61088,
+                    3.01306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.09635,
+                "longitude": 101.67787,
+                "description": "Staff had contact with one Covid-19 patient, who has been transferred to Hospital Kuala Lumpur.",
+                "locationName": "Taman Desa Medical Centre",
+                "source": "https://www.malaysiakini.com/news/513455",
+                "reportedDate": "2020-03-05",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 36,
+                "site": "https://www.malaysiakini.com",
+                "show": "Staff had contact with one Covid-19 patient, who has been transferred to Hospital Kuala Lumpur"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.67787,
+                    3.09635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.08395,
+                "longitude": 101.68803,
+                "description": "A resident of Bukit Gembira Condominium was diagnosed on 05/03/2020, according to a notice by the building management. ",
+                "locationName": "Bukit Gembira condominium",
+                "source": "nan",
+                "reportedDate": "2020-03-05",
+                "status": "infection",
+                "entryBy": "malaysiakini.com",
+                "duration": 36,
+                "site": "nan",
+                "show": "A resident of Bukit Gembira Condominium was diagnosed on 05/03/2020, according to a notice by the building management"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.68803,
+                    3.08395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.15741,
+                "longitude": 101.69563,
+                "description": "Case 26 is an UDA Holdings board member. UDA Holdings' headquarters is in Pertama Complex.",
+                "locationName": "Pertama Complex",
+                "source": "https://themalaysianreserve.com/2020/03/04/malaysia-records-7-new-cases-of-covid-19/",
+                "reportedDate": "2020-03-04",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 37,
+                "site": "https://themalaysianreserve.com",
+                "show": "Case 26 is an UDA Holdings board member"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.69563,
+                    3.15741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.14531,
+                "longitude": 101.69927,
+                "description": "Case 26, is an UDA Holdings board member who attended an event at the UDA-owned hotel.",
+                "locationName": "Ancasa Hotel",
+                "source": "https://www.bernama.com/en/news.php?id=1818378",
+                "reportedDate": "2020-03-04",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 37,
+                "site": "https://www.bernama.com",
+                "show": "Case 26, is an UDA Holdings board member who attended an event at the UDA-owned hotel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.69927,
+                    3.14531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.07999,
+                "longitude": 101.59386,
+                "description": "Emergency room was temporarily closed after three cases reported there, including a staff member.",
+                "locationName": "Subang Jaya Medical Centre",
+                "source": "https://www.malaysiakini.com/news/513289",
+                "reportedDate": "2020-03-04",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 37,
+                "site": "https://www.malaysiakini.com",
+                "show": "Emergency room was temporarily closed after three cases reported there, including a staff member"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.59386,
+                    3.07999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.19062,
+                "longitude": 101.73268,
+                "description": "Felcra board member tested positive. Closed for cleaning from March 4-6.",
+                "locationName": "Wisma Felcra",
+                "source": "https://www.freemalaysiatoday.com/category/nation/2020/03/04/wisma-felcra-closed-for-3-days-until-march-6-for-covid-19-sterilisation/",
+                "reportedDate": "2020-03-03",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 38,
+                "site": "https://www.freemalaysiatoday.com",
+                "show": "Felcra board member tested positive"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.73268,
+                    3.19062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.13272,
+                "longitude": 101.68354,
+                "description": "Case 26 is a senior Khazanah personnel. Khazanah's office is at Menara UEM, KL Sentral, Kuala Lumpur. ",
+                "locationName": "Menara UEM",
+                "source": "https://www.nst.com.my/news/nation/2020/03/571052/khazanahs-office-undergoing-clean-over-covid-19",
+                "reportedDate": "2020-03-02",
+                "status": "infection",
+                "entryBy": "malaysiakini.com",
+                "duration": 39,
+                "site": "https://www.nst.com.my",
+                "show": "Case 26 is a senior Khazanah personnel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.68354,
+                    3.13272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": 3.11977,
+                "longitude": 101.66686,
+                "description": "Case 24, a Japanese woman, sought treatment here before diagnosed. Her hospital roommate ( Case 29) and a nurse (Case 27) became infected",
+                "locationName": "Pantai Medical Centre, KL",
+                "source": "https://www.malaysiakini.com/news/512769",
+                "reportedDate": "2020-02-27",
+                "status": "infection",
+                "entryBy": "Admin",
+                "duration": 43,
+                "site": "https://www.malaysiakini.com",
+                "show": "Case 24, a Japanese woman, sought treatment here before diagnosed"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.66686,
+                    3.11977
+                ]
+            }
+        }
+    ]
+}
