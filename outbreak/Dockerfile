@@ -1,4 +1,6 @@
-FROM python:3.7-stretch
+FROM python:3.7-slim-buster
+RUN apt-get update
+RUN apt-get install default-libmysqlclient-dev libevent-dev gcc -y
 COPY ./services /root/services
 COPY ./.env /root/.env
 COPY ./outbreak/requirements.txt /root/

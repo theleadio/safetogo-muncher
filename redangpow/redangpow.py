@@ -1,6 +1,5 @@
 """
-    Copyright 2020 Edmund Hee, All Right Reserved
-    Email: edmund.hee05@gmail.com
+    Created by: Nazmi Asri
 """
 import requests
 import re
@@ -151,8 +150,6 @@ if __name__ == "__main__":
     print("Map Data...")
     processed_d = list(map(map_f, raw_d))
     df = pd.DataFrame(processed_d)
-    df["last_updated"] = pd.to_datetime(df["last_updated"]).values.astype('datetime64[ms]')
-    df["reportedDate"] = pd.to_datetime(df["reportedDate"]).values.astype('datetime64[ms]')
     df_json = df.to_json(orient='records')
     runner = SqlRunner(DB_URI, DB_PASSWORD)
 
